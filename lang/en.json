@@ -3,7 +3,7 @@
 	"I18N.MAINTAINERS": "Ernie",
 	"no-tooltips.module-name": "No Tooltips",
 	"no-tooltips.toggle-key.label": "Toggle Key",
-	"no-tooltips.toggle-key.hint": "While holding this key default tooltips will appear when hovering over an element that has a tooltip.",
+	"no-tooltips.toggle-key.hint": "While holding this key, default tooltips will appear when hovering over an element that has a tooltip.",
 	"no-tooltips.toggle-key.option.alt": "Alt",
 	"no-tooltips.toggle-key.option.ctrl": "Ctrl",
 	"no-tooltips.toggle-key.option.shift": "Shift"
