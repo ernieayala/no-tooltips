@@ -5,4 +5,4 @@
 # No Tooltips
 **Compatibility:** FoundryVTT 10.286
 
-Hides tooltips. Press 'alt' and hover to see a tooltip.
+Hides tooltips. Press 'CTRL' to hover and see a tooltip.
