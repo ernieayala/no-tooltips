@@ -1,0 +1,39 @@
+{
+  "title": "No Tooltips",
+  "description": "Hides tooltips.",
+  "version": "0.0.1",
+  "authors": [
+    {
+      "name": "Ernie",
+      "email": "teafortwo.ea@gmail.com",
+      "url": "https://github.com/ernieayala",
+      "flags": {}
+    }
+  ],
+  "styles": [
+    "css/no-tooltips.css"
+  ],
+  "esmodules": [
+    "js/no-tooltips.js"
+  ],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json",
+      "flags": {}
+    }
+  ],
+  "url": "https://github.com/ernieayala/no-tooltips",
+  "manifest": "https://github.com/ernieayala/no-tooltips/releases/download/0.0.1/module.json",
+  "download": "https://github.com/ernieayala/no-tooltips/releases/download/0.0.1/no-tooltips-0.0.1.zip",
+  "license": "MIT",
+  "readme": "https://github.com/ernieayala/no-tooltips",
+  "bugs": "https://github.com/ernieayala/no-tooltips/issues",
+  "changelog": "https://github.com/ernieayala/no-tooltips/releases",
+  "id": "no-tooltips",
+  "compatibility": {
+    "minimum": "10.286",
+    "verified": "10.291"
+  }
+}

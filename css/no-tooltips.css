@@ -1,0 +1,7 @@
+#tooltip {
+  display: none !important;
+  pointer-events: none;
+}
+.-show-tooltips #tooltip {
+  display: block !important;
+}

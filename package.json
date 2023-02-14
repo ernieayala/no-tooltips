@@ -1,0 +1,18 @@
+{
+	"author": "Ernie <teafortwo.ea@gmail.com>",
+	"keywords": [
+		"layout",
+		"vtt",
+		"foundry"
+	],
+	"name": "Ernie",
+	"scripts": {
+		"watch": "sass scss:css --watch --style=expanded --no-source-map",
+		"build": "sass scss:css --no-source-map"
+	},
+	"version": "0.0.1",
+	"devDependencies": {
+		"clean-css-cli": "5.6.1",
+		"sass": "1.32.13"
+	}
+}
