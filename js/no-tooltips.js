@@ -19,7 +19,7 @@ class noTooltipSettings {
 
 	static get defaultSettings() {
 		return {
-			toggleKey: 18
+			toggleKey: 17
 		};
 	}
 }
@@ -44,7 +44,7 @@ Hooks.once('ready', () => {
 		hint: game.i18n.localize('no-tooltips.toggle-key.hint'),
 		scope: 'user',
 		config: true,
-		default: 18,
+		default: 17,
 		type: String,
 		choices: {
 			16: game.i18n.localize('no-tooltips.toggle-key.option.shift'),
